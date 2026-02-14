@@ -4,6 +4,11 @@
     box-sizing: border-box;
 }
 
+a.rayner {
+    color: #666666;
+    text-decoration: none;
+}
+
 :root {
     --primary-black: #000000;
     --secondary-black: #1a1a1a;
