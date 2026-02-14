@@ -60,7 +60,7 @@ header {
 
 .logo img {
     display: block;
-    max-height: 150px;
+    max-height: 120px;
     height: auto;
     width: auto;
     max-width: 240px;
@@ -263,7 +263,7 @@ header {
     padding: 5rem 0;
     background-color: var(--secondary-black);
     color: var(--white);
-    transform: border-color: 0.5s;
+    transform: border-color 0.5s;
 }
 
 .servicos .section-title {
@@ -515,12 +515,12 @@ header {
     }
 
     .logo img {
-        max-height: 54px;
+        max-height: 150px;
         max-width: 180px;
     }
 
     .footer-logo img {
-        max-height: 50px;
+        max-height: 150px;
         max-width: 170px;
     }
 
