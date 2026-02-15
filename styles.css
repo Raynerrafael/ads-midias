@@ -47,7 +47,7 @@ header {
 
 
 .navbar {
-    padding: 1rem 0;
+    padding: 0.5rem 0;
 }
 
 .navbar .container {
@@ -531,7 +531,7 @@ header {
 
     .navbar .container {
         flex-direction: column;
-        gap: 1rem;
+        gap: ;
     }
 
     .nav-menu {
